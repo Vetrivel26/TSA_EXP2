@@ -1,5 +1,5 @@
-# Developed by: Pranave B
-# Register Number: 212221240040
+# Developed by: VETRIVEL S
+# Register Number: 212221240060
 # Date:
 # Ex.No: 02 LINEAR AND POLYNOMIAL TREND ESTIMATION
 
